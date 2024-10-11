@@ -1,0 +1,26 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 0.8em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: bold !important;
+}
+
+.footer-brand {
+    width: 185px;
+}
+
+.info-app {
+    width: 650px;
+}
+
+.navbar-brand-img {
+    margin-top: -10px;
+    width: 250px !important;
+}
+
+.swal2-confirm {
+    background-color: #fad776 !important;
+    color: #1b2a4e !important;
+}
