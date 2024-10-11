@@ -2,8 +2,8 @@
 
 Sample Project Study for creating Component Test with Cypress in the Movebee App + Mock
 
-Tecnologias Utilizadas
-Cypress
-Component Test
-Mock (Intercept)
- 
+## Technologies Used
+
+- Cypress
+- Component Test
+- Mock (Intercept)
